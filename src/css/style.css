@@ -118,7 +118,7 @@ body {
 
 /*  header  */
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.434), rgba(0, 0, 0, 0.445)), url("/src/images/hotel2.webp");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.434), rgba(0, 0, 0, 0.445)), url("../images/hotel2.webp");
   background-repeat: no-repeat;
   background-position: 20% 80%;
   background-size: cover;
