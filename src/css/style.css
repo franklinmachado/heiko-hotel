@@ -481,4 +481,12 @@ address {
   }
 }
 
+@media (max-width: 420px) {
+  header span, h1 {
+    font-size: 1.4rem;
+  }.fonte_cursiva {
+    font-size: 2.1rem;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
